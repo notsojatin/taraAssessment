@@ -1,0 +1,2 @@
+According to me the problem can be solved using Divide and Conquer or Dyamic Programming Approach. If given a choice I'd pick up Dynamic Programming to solve the issue.
+

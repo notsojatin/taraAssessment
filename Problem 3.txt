@@ -1,0 +1,10 @@
+
+According to me Doubly Linked List will be best choice to implement Stack and Queue Together
+
+Pros:
+    It will allow push() or enqueue() operation by appending the element to the list in constant time.
+    It will allow pop() by removing the last element in constant time
+    It will allow dequeue() by removing the first element, also in constant time.
+
+Cons:
+    Increased Space, extra space to store the address of previous node

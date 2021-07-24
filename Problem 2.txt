@@ -1,0 +1,1 @@
+According to me HashMap (Dictionary in python), would be the best choice to store the list of top 10 Stocks, where we can store the Stocks as per their ranking and HashMaps values retrieval will help in accessing/updating the values easier and optimal

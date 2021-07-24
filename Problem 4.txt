@@ -1,0 +1,8 @@
+Array List:
+
+    ArrayList holds indexed references to every element in the list, so it can get the n-th element in constant time O(1). 
+    Deletion is slower in ArrayList as it has to shift all the elements after the element is Deleted
+
+LinkedList:
+    Linked List has to traverse the data, that results in ploynomial time i.e O(n)
+    Linked can perform deletion in a linear time (O(1)), however O(n) time is needed to traverse the LinkedList
